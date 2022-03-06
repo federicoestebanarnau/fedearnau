@@ -30,7 +30,7 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <Switch>
-          <Route path="/"  exact component={Home? Home: "https://federicoestebanarnau.github.io/fedearnau/"} />
+          <Route path="/"   component={Home? Home: "https://federicoestebanarnau.github.io/fedearnau/"} />
           <Route path="/Project" component={Projects} />
           <Route path="/About" component={About} />
           <Route path="/Resume" component={Resume} />
