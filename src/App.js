@@ -29,9 +29,8 @@ function App() {
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
-        
         <Switch>
-          <Route path="/" exact  />
+          <Route path="/"  exact component={!Home? "/fedearnau/": Home} />
           <Route path="/Project" component={Projects} />
           <Route path="/About" component={About} />
           <Route path="/Resume" component={Resume} />
