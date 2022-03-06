@@ -51,7 +51,7 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://github.com/federicoestebanarnau"
-                  target="_blank"
+                  
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -61,7 +61,7 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://twitter.com/fedear13"
-                  target="_blank"
+                  
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -71,7 +71,7 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/federicoestebanarnau/"
-                  target="_blank"
+                  
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
@@ -81,7 +81,7 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://www.instagram.com/fedearnau/"
-                  target="_blank"
+                  
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
