@@ -27,7 +27,7 @@ function App() {
   return (
     <Router>
       <Preloader load={load} />
-      <div className="App" id={load ? "no-scroll" : "scroll"}>
+      {/* <div className="App" id={load ? "no-scroll" : "scroll"}> */}
         <Navbar />
         
         <Switch>
@@ -37,7 +37,7 @@ function App() {
           <Route path="/Resume" component={Resume} />
         </Switch>
         <Footer />
-      </div>
+      {/* </div> */}
     </Router>
   );
 }
