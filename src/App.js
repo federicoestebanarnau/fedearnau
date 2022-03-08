@@ -35,7 +35,7 @@ function App() {
           {/* <Route   path="/" component={Home} /> */}
           <Route   path="/About" component={About} />
           <Route   path="/Proyect" component={Projects} />
-          <Route   path="/resume" component={Resume} />
+          <Route   path="https://federicoestebanarnau.github.io/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
