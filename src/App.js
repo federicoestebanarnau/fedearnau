@@ -33,9 +33,9 @@ function App() {
         <Switch>
           <Route exact path="https://federicoestebanarnau.github.io/fedearnau/" component={Home} />
           <Route  path="/" component={Home} />
-          <Route  path="https://federicoestebanarnau.github.io/project" component={Projects} />
-          <Route  path="https://federicoestebanarnau.github.io/about" component={About} />
-          <Route  path="https://federicoestebanarnau.github.io/resume" component={Resume} />
+          <Route  exact path="https://federicoestebanarnau.github.io/Project" component={Projects} />
+          <Route  exact path="https://federicoestebanarnau.github.io/About" component={About} />
+          <Route  exact path="https://federicoestebanarnau.github.io/Resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
