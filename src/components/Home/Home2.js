@@ -20,17 +20,17 @@ function Home2() {
                <span className="purple"> Me presento </span> 
             </h1>
             <p className="home-about-body">
-               Gracias a mi antigua carrera (arquitectura) y la tecnologias,
-               surgio mi amor por el diseño en paginas webs, lo que me inpiro 
+               Gracias a mi antigua carrera (arquitectura) y la tecnología,
+               surgio mi amor por el diseño en páginas webs, lo que me inspiro 
                a convertirme en un <b className="purple">frontend developer</b>
               <br />
               <br />
-              Tengo un gran interes por la creacion y modificacion de 
+              Tengo un gran interás por la creación y modificaciín de 
               <i>
-                <b className="purple"> paginas webs y mobiles </b> 
-                y tambien por conocer los {" "}
+                <b className="purple"> paginas webs y móbiles </b> 
+                y también por conocer los {" "}
                 <b className="purple"> 
-                   lenguajes de programacion en su estado puro.
+                   lenguajes de programación en su estado puro.
                 </b>
               </i>
               <br />
