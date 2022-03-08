@@ -31,10 +31,10 @@ function App() {
         <Navbar />
         
         <Switch>
-          <Route  exact path="federicoestebanarnau.github.io/fedearnau/"  component={Home} />
-          <Route   path="/about" component={About} />
+          <Route   path="/"  component={Home} />
+          {/* <Route   path="/about" component={About} />
           <Route   path="/Project"  component={Projects} />
-          <Route    path="/resume"  component={Resume} />
+          <Route    path="/resume"  component={Resume} /> */}
         </Switch>
         <Footer />
       </div>
