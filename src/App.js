@@ -31,7 +31,7 @@ function App() {
         <Navbar />
         
         <Switch>
-          <Route   path="federicoestebanarnau.github.io/fedearnau/"  component={Home} />
+          <Route   path="/fedearnau/"  component={Home} />
           <Route   path="/About" component={About} />
           <Route   path="/Project"  component={Projects} />
           <Route    path="/Resume"  component={Resume} />
