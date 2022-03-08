@@ -26,18 +26,18 @@ function App() {
 
   return (
     <Router>
-      {/* <Preloader load={load} /> */}
-      {/* <div className="App" id={load ? "no-scroll" : "scroll"}> */}
-        {/* <Navbar /> */}
+      <Preloader load={load} />
+      <div className="App" id={load ? "no-scroll" : "scroll"}>
+        <Navbar />
         
         <Switch>
-          {/* <Route  path="https://federicoestebanarnau.github.io//fedearnau/" component={Home} /> */}
-          {/* <Route path="/Project" component={Projects} />
-          <Route path="/About" component={About} />
-          <Route path="/Resume" component={Resume} /> */}
+          <Route exact path="https://federicoestebanarnau.github.io/fedearnau/" component={Home} />
+           <Route path="/Project" component={Projects} />
+           <Route path="/About" component={About} />
+           <Route path="/Resume" component={Resume} /> 
         </Switch>
         <Footer />
-      {/* </div> */}
+      </div>
     </Router>
   );
 }
