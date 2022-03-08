@@ -33,9 +33,9 @@ function App() {
         <Switch>
           <Route path="/"component={Home}  />  
           {/* <Route path="federicoestebanarnau.github.io" component={Home}  />         */}
-          <Route path="/Project" component={Projects} />
-          <Route path="/About" component={About} />
-          <Route path="/Resume" component={Resume} />
+          <Route path="/project" component={Projects} />
+          <Route path="/about" component={About} />
+          <Route path="/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
