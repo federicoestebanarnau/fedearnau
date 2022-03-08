@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "96df09fddc1a1c386edb",
+    "revision": "d67f6da4777a9970bc35",
     "url": "/fedearnau/static/css/main.7ad7edd5.chunk.css"
   },
   {
-    "revision": "96df09fddc1a1c386edb",
-    "url": "/fedearnau/static/js/main.96df09fd.chunk.js"
+    "revision": "d67f6da4777a9970bc35",
+    "url": "/fedearnau/static/js/main.d67f6da4.chunk.js"
   },
   {
     "revision": "b57061c7c54bbdd02d04",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/fedearnau/static/media/cv_image.5f479ac1.jpg"
   },
   {
-    "revision": "64a18e861e1c6853a1c7446cb1576639",
+    "revision": "e65ab55e954b5aadc2f0bf10d97b3fb5",
     "url": "/fedearnau/index.html"
   }
 ];

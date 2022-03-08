@@ -1,7 +1,7 @@
 {
   "main.css": "/fedearnau/static/css/main.7ad7edd5.chunk.css",
-  "main.js": "/fedearnau/static/js/main.96df09fd.chunk.js",
-  "main.js.map": "/fedearnau/static/js/main.96df09fd.chunk.js.map",
+  "main.js": "/fedearnau/static/js/main.d67f6da4.chunk.js",
+  "main.js.map": "/fedearnau/static/js/main.d67f6da4.chunk.js.map",
   "static/js/1.b57061c7.chunk.js": "/fedearnau/static/js/1.b57061c7.chunk.js",
   "static/js/1.b57061c7.chunk.js.map": "/fedearnau/static/js/1.b57061c7.chunk.js.map",
   "static/css/2.c416919f.chunk.css": "/fedearnau/static/css/2.c416919f.chunk.css",
@@ -18,6 +18,6 @@
   "static/css/main.7ad7edd5.chunk.css.map": "/fedearnau/static/css/main.7ad7edd5.chunk.css.map",
   "static/css/2.c416919f.chunk.css.map": "/fedearnau/static/css/2.c416919f.chunk.css.map",
   "index.html": "/fedearnau/index.html",
-  "precache-manifest.0564afebdaf8bddf4eec9feb4b61ed54.js": "/fedearnau/precache-manifest.0564afebdaf8bddf4eec9feb4b61ed54.js",
+  "precache-manifest.3945dc6176a7d3bb37e133321e82190f.js": "/fedearnau/precache-manifest.3945dc6176a7d3bb37e133321e82190f.js",
   "service-worker.js": "/fedearnau/service-worker.js"
 }
