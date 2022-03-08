@@ -28,7 +28,7 @@ function App() {
     <Router>
       {/* <Preloader load={load} /> */}
       {/* <div className="App" id={load ? "no-scroll" : "scroll"}> */}
-        <Navbar />
+        {/* <Navbar /> */}
         
         <Switch>
           {/* <Route  path="https://federicoestebanarnau.github.io//fedearnau/" component={Home} /> */}
@@ -37,7 +37,7 @@ function App() {
           <Route path="/Resume" component={Resume} /> */}
         </Switch>
         <Footer />
-      </div>
+      {/* </div> */}
     </Router>
   );
 }
