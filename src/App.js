@@ -32,9 +32,9 @@ function App() {
         
         <Switch>
           {/* <Route  path="https://federicoestebanarnau.github.io//fedearnau/" component={Home} /> */}
-          <Route path="/Project" component={Projects} />
+          {/* <Route path="/Project" component={Projects} />
           <Route path="/About" component={About} />
-          <Route path="/Resume" component={Resume} />
+          <Route path="/Resume" component={Resume} /> */}
         </Switch>
         <Footer />
       </div>
