@@ -32,10 +32,10 @@ function App() {
         
         <Switch>
           <Route exact path="https://federicoestebanarnau.github.io/fedearnau/" component={Home} />
-          <Route exact path="/" component={Home} />
-          <Route exact path="/project" component={Projects} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/resume" component={Resume} />
+          <Route  path="/" component={Home} />
+          <Route  path="https://federicoestebanarnau.github.io/project" component={Projects} />
+          <Route  path="https://federicoestebanarnau.github.io/about" component={About} />
+          <Route  path="https://federicoestebanarnau.github.io/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
