@@ -31,8 +31,8 @@ function App() {
         <Navbar />
         
         <Switch>
-          <Route path="/" component={Home}  /> 
-          <Route path="/project" component={Projects} />
+          {/* <Route path="/" component={Home}  />  */}
+          <Route path="/Project" component={Projects} />
           <Route path="/about" component={About} />
           <Route path="/resume" component={Resume} />
         </Switch>
