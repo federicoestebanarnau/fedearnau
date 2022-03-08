@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
-import Home from "./components/Home/Home";
-import About from "./components/About/About";
-import Projects from "./components/Projects/Projects";
+import home from "./components/Home/Home";
+import about from "./components/About/About";
+import projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -31,9 +31,9 @@ function App() {
         <Navbar />
         
         <Switch>
-          {/* <Route path="/" component={Home}  />  */}
-          <Route path="/Project" component={Projects} />
-          <Route path="/about" component={About} />
+          <Route path="/" component={home}  /> 
+          <Route path="/project" component={projects} />
+          <Route path="/about" component={about} />
           <Route path="/resume" component={Resume} />
         </Switch>
         <Footer />
