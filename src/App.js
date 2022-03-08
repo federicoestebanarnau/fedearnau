@@ -31,11 +31,9 @@ function App() {
         <Navbar />
         
         <Switch>
-<<<<<<< HEAD
+
           <Route exact path="/" component={Home} />
-=======
           <Route  exact path="/" component={Home}  /> 
->>>>>>> 84de967cdd5918c2bfd8c1700600eb23d393b1c9
           <Route path="/Project" component={Projects} />
           <Route path="/About" component={About} />
           <Route path="/Resume" component={Resume} />
