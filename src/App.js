@@ -33,7 +33,7 @@ function App() {
             path="https://federicoestebanarnau.github.io/fedearnau/"
             component={Home}
           />
-          <Route path="/" component={Home} />
+          <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/Project" component={Projects} />
           <Route path="/Resume" component={Resume} />
