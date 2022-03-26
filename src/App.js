@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, Component } from "react";
 import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
@@ -28,6 +28,10 @@ function App() {
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
         <Switch>
+          <Route
+            path={"https://federicoestebanarnau.github.io/fedearnau/"}
+            component={Home}
+          />
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
           <Route path="/Project" component={Projects} />
