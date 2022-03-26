@@ -11,16 +11,14 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-
-
 function App() {
   const [load, upadateLoad] = useState(true);
-  
+
   useEffect(() => {
     const timer = setTimeout(() => {
       upadateLoad(false);
     }, 1200);
-    
+
     return () => clearTimeout(timer);
   }, []);
 
@@ -29,13 +27,16 @@ function App() {
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
-        
         <Switch>
-          <Route exact path="/fedearnau/"  component={Home} />
-          <Route  exact path="/"  component={Home} />
-          <Route   path="/about" component={About} />
-          <Route   path="/Project"  component={Projects} />
-          <Route   path="/Resume"  component={Resume} />
+          <Route
+            exact
+            path="https://federicoestebanarnau.github.io/fedearnau/"
+            component={Home}
+          />
+          <Route exact path="/" component={Home} />
+          <Route path="/about" component={About} />
+          <Route path="/Project" component={Projects} />
+          <Route path="/Resume" component={Resume} />
         </Switch>
         <Footer />
       </div>

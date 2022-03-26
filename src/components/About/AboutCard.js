@@ -8,13 +8,15 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Mi nombre es  <span className="purple">Federico Esteban Arnau </span>
-            soy de  <span className="purple"> Tucuman, Argentina.</span>
-            <br />Soy un estudiante <span className="purple">autodidacta </span>
-            que se interesa por la tecnologia <span className="purple">Frontend </span>.
+            Mi nombre es <span className="purple">Federico Esteban Arnau </span>
+            soy de <span className="purple"> Tucuman, Argentina.</span>
+            <br />
+            Soy un estudiante <span className="purple">autodidacta </span>
+            que se interesa por la tecnología{" "}
+            <span className="purple">Frontend </span>.
             <br />
             <br />
-            Ademas de programar me gusta:
+            Además de programar me gusta:
           </p>
           <ul>
             <li className="about-activity">
