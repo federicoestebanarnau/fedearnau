@@ -30,7 +30,7 @@ function App() {
         <Switch>
           <Route
             exact
-            path="https://federicoestebanarnau.github.io/fedearnau/"
+            path="federicoestebanarnau.github.io/fedearnau/"
             component={Home}
           />
           <Route exact path="/" component={Home} />
