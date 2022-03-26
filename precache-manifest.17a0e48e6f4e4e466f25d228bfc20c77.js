@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "68ed9dd3a2251b36ce71",
+    "revision": "342dc486e63007d5d690",
     "url": "/fedearnau/static/css/main.8a100984.chunk.css"
   },
   {
-    "revision": "68ed9dd3a2251b36ce71",
-    "url": "/fedearnau/static/js/main.68ed9dd3.chunk.js"
+    "revision": "342dc486e63007d5d690",
+    "url": "/fedearnau/static/js/main.342dc486.chunk.js"
   },
   {
     "revision": "b57061c7c54bbdd02d04",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/fedearnau/static/media/home-main.1aed08b3.svg"
   },
   {
-    "revision": "a407c8bdaac77a43ee734e047967ff88",
-    "url": "/fedearnau/static/media/pre.a407c8bd.svg"
-  },
-  {
     "revision": "bc2c7afa280d7a7d54e2c5ecf515e8a6",
     "url": "/fedearnau/static/media/home-bg.dc52d5d4.jpg"
+  },
+  {
+    "revision": "a407c8bdaac77a43ee734e047967ff88",
+    "url": "/fedearnau/static/media/pre.a407c8bd.svg"
   },
   {
     "revision": "ca28f2e86d1f1359f309078a49b5931e",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/fedearnau/static/media/cv_image.5f479ac1.jpg"
   },
   {
-    "revision": "38d532476d4a43dc419011aeaaddf62c",
+    "revision": "f30da184b66d2f9544664d21729076a1",
     "url": "/fedearnau/index.html"
   }
 ];
