@@ -21,7 +21,7 @@ function Home2() {
             </h1>
             <p className="home-about-body">
               Gracias a mi antigua carrera (arquitectura) y la tecnología,
-              surgió mi amor por el diseño de páginas webs, lo que me inspiró a
+              surgió mi amor por el diseño de página web, lo que me inspiró a
               convertirme en un <b className="purple">frontend developer</b>
               <br />
               <br />
