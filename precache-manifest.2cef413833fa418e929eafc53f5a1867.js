@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/fedearnau/static/media/home-main.1aed08b3.svg"
   },
   {
-    "revision": "a407c8bdaac77a43ee734e047967ff88",
-    "url": "/fedearnau/static/media/pre.a407c8bd.svg"
-  },
-  {
     "revision": "bc2c7afa280d7a7d54e2c5ecf515e8a6",
     "url": "/fedearnau/static/media/home-bg.dc52d5d4.jpg"
+  },
+  {
+    "revision": "a407c8bdaac77a43ee734e047967ff88",
+    "url": "/fedearnau/static/media/pre.a407c8bd.svg"
   },
   {
     "revision": "ca28f2e86d1f1359f309078a49b5931e",
