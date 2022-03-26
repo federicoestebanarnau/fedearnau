@@ -29,7 +29,8 @@ function App() {
         <Navbar />
         <Switch>
           <Route
-            path={"https://federicoestebanarnau.github.io/fedearnau/"}
+            exact
+            path="https://federicoestebanarnau.github.io/fedearnau/"
             component={Home}
           />
           <Route exact path="/" component={Home} />
@@ -37,8 +38,8 @@ function App() {
           <Route path="/Project" component={Projects} />
           <Route path="/Resume" component={Resume} />
         </Switch>
-        <Footer />
       </div>
+      <Footer />
     </Router>
   );
 }
