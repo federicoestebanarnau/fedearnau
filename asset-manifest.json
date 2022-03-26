@@ -1,7 +1,7 @@
 {
   "main.css": "/fedearnau/static/css/main.8a100984.chunk.css",
-  "main.js": "/fedearnau/static/js/main.94333fa9.chunk.js",
-  "main.js.map": "/fedearnau/static/js/main.94333fa9.chunk.js.map",
+  "main.js": "/fedearnau/static/js/main.882d1f37.chunk.js",
+  "main.js.map": "/fedearnau/static/js/main.882d1f37.chunk.js.map",
   "static/js/1.b57061c7.chunk.js": "/fedearnau/static/js/1.b57061c7.chunk.js",
   "static/js/1.b57061c7.chunk.js.map": "/fedearnau/static/js/1.b57061c7.chunk.js.map",
   "static/css/2.c85a4798.chunk.css": "/fedearnau/static/css/2.c85a4798.chunk.css",
@@ -11,13 +11,13 @@
   "runtime~main.js.map": "/fedearnau/static/js/runtime~main.056ac31d.js.map",
   "static/media/CV_Federico_Esteban_Arnau.pdf": "/fedearnau/static/media/CV_Federico_Esteban_Arnau.e24fb87e.pdf",
   "static/media/home-main.svg": "/fedearnau/static/media/home-main.1aed08b3.svg",
-  "static/media/style.css": "/fedearnau/static/media/home-bg.dc52d5d4.jpg",
+  "static/media/style.css": "/fedearnau/static/media/pre.a407c8bd.svg",
   "static/media/yo.9187dd24.jpeg": "/fedearnau/static/media/yo.9187dd24.jpeg",
   "static/media/about.aee0f771.png": "/fedearnau/static/media/about.aee0f771.png",
   "static/media/cv_image.5f479ac1.jpg": "/fedearnau/static/media/cv_image.5f479ac1.jpg",
   "static/css/main.8a100984.chunk.css.map": "/fedearnau/static/css/main.8a100984.chunk.css.map",
   "static/css/2.c85a4798.chunk.css.map": "/fedearnau/static/css/2.c85a4798.chunk.css.map",
   "index.html": "/fedearnau/index.html",
-  "precache-manifest.bd000f167659651dab2432e40124fc4a.js": "/fedearnau/precache-manifest.bd000f167659651dab2432e40124fc4a.js",
+  "precache-manifest.305cf0ff3a691ec37251e2e7be79f4b9.js": "/fedearnau/precache-manifest.305cf0ff3a691ec37251e2e7be79f4b9.js",
   "service-worker.js": "/fedearnau/service-worker.js"
 }
