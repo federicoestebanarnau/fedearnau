@@ -2,8 +2,8 @@ import React from "react";
 import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import pdf from "../../Assets/CV_Federico_Esteban_Arnau.pdf";
-import pd from "../../Assets/cv_image.jpg";
+import pdf from "../../Assets/cv.pdf";
+import pd from "../../Assets/cv-img.jpg";
 import { AiOutlineDownload } from "react-icons/ai";
 
 function ResumeNew() {
